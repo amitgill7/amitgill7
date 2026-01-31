@@ -5,6 +5,8 @@
 - <b>SIEM</b>
   - [Building A Honeypot Infrastructure](https://github.com/amitgill7/SIEM-Honeypot-Infrastructure)
 
+- <b>Malware Analysis</b>
+  - [Keylogger Deployment and Log Management]
 
 
 
