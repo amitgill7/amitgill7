@@ -3,7 +3,7 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>SIEM</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Building A Honeypot Infrastructure](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 
