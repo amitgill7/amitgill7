@@ -1,7 +1,24 @@
-## Hi there 👋
+<h1>Hey, I'm Amit! <br/><a href="www.linkedin.com/in/amit-gill-5891bb2b2">Information Technology Professional</a></h1>
+
+<h2>👨‍💻Projects:</h2>
+
+- <b>SIEM</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+
+
+<h2>📃 Certifications</h2>
+
+- Google IT Support Professional
+
+
+<h2>🤳 Connect with me:</h2>
+
+[linkedin]: www.linkedin.com/in/amit-gill-5891bb2b2
 
 <!--
-**amitgill7/amitgill7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
