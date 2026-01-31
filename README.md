@@ -3,7 +3,7 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>SIEM</b>
-  - [Building A Honeypot Infrastructure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Building A Honeypot Infrastructure](https://github.com/amitgill7/SIEM-Honeypot-Infrastructure)
 
 
 
