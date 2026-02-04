@@ -9,7 +9,7 @@ https://github.com/amitgill7/Windows11-Installation-and-Deploymentt
   - [Keylogger Deployment and Log Management](https://github.com/amitgill7/Keylogger-Deployment)
 
 - <b>IT Infrastructure</b>
-  - [Windows 11 Installation and Deployment](https://github.com/amitgill7/Windows11-Installation-and-Deploymentt)
+  - [Windows 11 Installation and Deployment](https://github.com/amitgill7/Windows11-Installation-and-Deployment)
   - [Windows PC Optimization & Debloating](https://github.com/amitgill7/Windows-PC-Optimization-Debloating)
 
 <h2>📃 Certifications</h2>
