@@ -1,5 +1,4 @@
 <h1>Hey, I'm Amit! <br/><a href="https://www.linkedin.com/in/amit-gill-5891bb2b2/">Information Technology Professional</a></h1>
-https://github.com/amitgill7/Windows11-Installation-and-Deploymentt
 <h2>👨‍💻 Projects:</h2>
 
 - <b>SIEM</b>
