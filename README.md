@@ -8,6 +8,7 @@
   - [Keylogger Deployment and Log Management](https://github.com/amitgill7/Keylogger-Deployment)
 
 - <b>IT Infrastructure</b>
+  - [Jira Ticketing System Workflow](https://github.com/amitgill7/Jira-Workflow)
   - [Windows 11 Installation and Deployment](https://github.com/amitgill7/Windows11-Installation-and-Deployment)
   - [Windows PC Optimization & Debloating](https://github.com/amitgill7/Windows-PC-Optimization-Debloating)
 
