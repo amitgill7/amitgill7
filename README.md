@@ -14,6 +14,7 @@
 
 <h2>📃 Certifications</h2>
 
+- CompTIA Security+ (SY0-701)
 - Google IT Support Professional
 
 
